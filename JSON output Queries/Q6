@@ -1,0 +1,8 @@
+{
+  _id: ObjectId('65aa0180d86aa9b9efe7c512'),
+  id: '10',
+  product_name: 'Generic Wooden Pizza',
+  product_price: 84,
+  product_material: 'Frozen',
+  product_color: 'indigo'
+}
