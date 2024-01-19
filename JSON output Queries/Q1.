@@ -1,0 +1,8 @@
+{
+  _id: ObjectId('65aa0180d86aa9b9efe7c509'),
+  id: '1',
+  product_name: 'Intelligent Fresh Chips',
+  product_price: 655,
+  product_material: 'Concrete',
+  product_color: 'mint green'
+}
